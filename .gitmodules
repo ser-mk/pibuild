@@ -1,0 +1,3 @@
+[submodule "pilauncher"]
+	path = pilauncher
+	url = https://github.com/ser-mk/pilauncher.git
