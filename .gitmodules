@@ -4,3 +4,6 @@
 [submodule "mclient"]
 	path = mclient
 	url = https://github.com/ser-mk/mclient.git
+[submodule "piball"]
+	path = piball
+	url = https://github.com/ser-mk/piball.git
