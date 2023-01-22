@@ -7,3 +7,6 @@
 [submodule "piball"]
 	path = piball
 	url = https://github.com/ser-mk/piball.git
+[submodule "admin-dpc"]
+	path = admin-dpc
+	url = https://github.com/ser-mk/admin-dpc.git
