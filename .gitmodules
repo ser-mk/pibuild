@@ -1,3 +1,6 @@
 [submodule "pilauncher"]
 	path = pilauncher
 	url = https://github.com/ser-mk/pilauncher.git
+[submodule "mclient"]
+	path = mclient
+	url = https://github.com/ser-mk/mclient.git
