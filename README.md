@@ -24,6 +24,7 @@ git clone --recurse-submodules https://github.com/ser-mk/pibuild.git
 
 2. Run docker contatiner:
 ```
+docker pull sermkd/pibuild:1.0.0a
 docker run --rm -it -v "$PWD/pibuild:/home/gradle/" sermkd/pibuild:1.0.0a python build.py
 ```
 3. Built apks will be in $PWD/pibuild/build_archive/current/
